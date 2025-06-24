@@ -4,6 +4,8 @@
 
 🚀 Live Demo: [Link](https://weathora-weatherapp.vercel.app/)
 
+  ![weathora](https://github.com/user-attachments/assets/921d9b52-6cfd-4d36-837b-d1a0f0f9e817)
+  
 ---
 
 ## 📖 About
